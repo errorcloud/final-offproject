@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* header */
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+video {
+    background-color: black;
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+}
+
+
+/* main */
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.sub-header--secondary {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+#camp {
+    text-align: center;
+}
+
+#phone {
+    text-align: center;
+}
+
+
+/* footer */
+.copyright {
+    text-align: right;
+    color: grey;
+}
+
+/* download links */
+.sub-header--main {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
